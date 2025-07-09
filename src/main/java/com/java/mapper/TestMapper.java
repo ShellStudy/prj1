@@ -1,4 +1,4 @@
-package com.java;
+package com.java.mapper;
 
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
